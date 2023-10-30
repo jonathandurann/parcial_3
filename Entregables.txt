@@ -1,5 +1,5 @@
 Entregables:
 
 1. Archivos de procesos de las carpetas, Raw, Process y Access
-2. Video de la solucioón
+2. Video de la solución
 3. Script de base de datos del DW
